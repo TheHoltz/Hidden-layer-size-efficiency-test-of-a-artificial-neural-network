@@ -14,11 +14,6 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 #### 3 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/LPuOZVh.png)
 
-	Reference
-	Prediction   0   1
-	0 922 115
-	1  32 123
-
 	Accuracy : 0.8767          
 	95% CI : (0.8567, 0.8948)
 	No Information Rate : 0.8003          
@@ -43,11 +38,6 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 #### 5 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/1rk1q2n.png)
 
-	Reference
-	Prediction   0   1
-	0 937 113
-	1  17 125
-
 	Accuracy : 0.8909          
 	95% CI : (0.8719, 0.9081)
 	No Information Rate : 0.8003          
@@ -70,38 +60,29 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 ---
 #### 7 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/RvbGrDL.png)
-  Reference
-  Prediction   0   1
-  0 916  83
-  1  38 155
 
-  Accuracy : 0.8985          
-  95% CI : (0.8799, 0.9151)
-  No Information Rate : 0.8003          
-  P-Value [Acc > NIR] : < 2.2e-16       
+	Accuracy : 0.8985          
+	95% CI : (0.8799, 0.9151)
+	No Information Rate : 0.8003          
+	P-Value [Acc > NIR] : < 2.2e-16       
 
-  Kappa : 0.6581          
-  Mcnemar's Test P-Value : 6.334e-05       
+	Kappa : 0.6581          
+	Mcnemar's Test P-Value : 6.334e-05       
 
-  Sensitivity : 0.9602          
-  Specificity : 0.6513          
-  Pos Pred Value : 0.9169          
-  Neg Pred Value : 0.8031          
-  Prevalence : 0.8003          
-  Detection Rate : 0.7685          
-  Detection Prevalence : 0.8381          
-  Balanced Accuracy : 0.8057          
+	Sensitivity : 0.9602          
+	Specificity : 0.6513          
+	Pos Pred Value : 0.9169          
+	Neg Pred Value : 0.8031          
+	Prevalence : 0.8003          
+	Detection Rate : 0.7685          
+	Detection Prevalence : 0.8381          
+	Balanced Accuracy : 0.8057          
 
-  'Positive' Class : 0
+	'Positive' Class : 0
   
 ---
 #### 9 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/vpxkXfh.png)
-
-	Reference
-	Prediction   0   1
-	0 923  99
-	1  31 139
 
 	Accuracy : 0.8909          
 	95% CI : (0.8719, 0.9081)
@@ -125,10 +106,6 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 ---
 #### 11 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/T19atdF.png)
-	Reference
-	Prediction   0   1
-	0 927  82
-	1  27 156
 
 	Accuracy : 0.9086          
 	95% CI : (0.8908, 0.9243)
@@ -152,10 +129,6 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 ---
 #### 15 Hidden layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/Fp5dy40.png)
-	Reference
-	Prediction   0   1
-	0 933  73
-	1  21 165
 
 	Accuracy : 0.9211          
 	95% CI : (0.9044, 0.9358)
@@ -179,10 +152,6 @@ Link Kaggle Data-set: https://www.kaggle.com/ajay1735/hmeq-data/
 ---
 #### 20 Hidden Layers Confusion Matrix and Statistics
 ![](https://i.imgur.com/8K6leAw.png)
-	Reference
-	Prediction   0   1
-	0 938  72
-	1  16 166
 
 	Accuracy : 0.9262          
 	95% CI : (0.9098, 0.9404)
